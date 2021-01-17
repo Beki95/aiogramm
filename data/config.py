@@ -12,7 +12,7 @@ ip = os.getenv("ip")
 # PGPASSWORD = os.getenv("PGPASSWORD")
 
 
-# chanels = [-1001244090631]
+# chanels = [-1]
 
 admins = [
     os.getenv("ADMIN_ID"),
